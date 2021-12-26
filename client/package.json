@@ -1,0 +1,18 @@
+{
+  "name": "virtual_machines",
+  "version": "1.0.0",
+  "description": "",
+  "main": "examples.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stall-Hall/architecture-lab-3.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stall-Hall",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
